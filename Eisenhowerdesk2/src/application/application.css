@@ -1,0 +1,8 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+.parent{
+	-fx-background-color: transparent ;
+}
+
+.pane{
+	-fx-background-color: #33698F;
+}
